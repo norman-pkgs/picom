@@ -1,1 +1,1 @@
-yay -S picom-ibhagwan-git
+yay -S --noconfirm picom-ibhagwan-git
